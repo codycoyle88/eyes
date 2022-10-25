@@ -1,3 +1,4 @@
+/* styles for the movement of the pupils. linking the 
 body {
   margin: 0;
   padding: 0;
@@ -11,16 +12,7 @@ body {
   width: 100%;
   text-align: center;
 }
-.eye {
-  width: 240px;
-  height: 120px;
-  background: #fff;
-  display: inline-block;
-  margin: 40px;
-  border-radius: 50%;
-  position: relative;
-  overflow: hidden;
-}
+
 .ball {
   width: 80px;
   height: 80px;

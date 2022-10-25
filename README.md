@@ -1,6 +1,6 @@
 # Eyes Exercise
 
-A little exercise to display two on eyes on the screen that will track your mouse as it moves around. 
+A little exercise to display two on eyes on the screen that will track your mouse as it moves around, creepy but fun. 
 
 ## How to run
 1. move your mouse around the screen and enjoy. 
